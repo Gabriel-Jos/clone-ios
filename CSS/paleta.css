@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    color: rgb(0, 228, 68);
+}
+h1{
+    text-align: center;
+}
+.texto{
+    background-color: rgb(97, 0, 189);
+    font-size: 30px;
+    font-style: italic;
+    text-align: left;
+}

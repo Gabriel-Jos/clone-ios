@@ -1,0 +1,25 @@
+   body{
+    background-image: url(../IMG/Sonic_Moderno_Sonic_Generations\ \(1\).webp);
+    padding: 0%;
+    margin: 0%;
+   }
+   body{
+background-color: blueviolet;
+    }
+  .corTitulo{
+            color: blue;
+        
+    }
+    p{
+        color: deeppink;
+    }
+    .corFundo{
+        background-color: green;
+    }
+    .corPar {
+        color: blue;
+    }
+    #titulo01 {
+        color: yellow;
+        text-align: center;
+    }

@@ -1,0 +1,24 @@
+body{
+
+    font-size: 25px;
+}
+h1{
+    font-size:3.2rem ;
+    text-align: center ;
+    text-shadow: 3px 3pc 2px green;
+}
+p {
+    font-size: 2em;
+}
+p {
+font-style: italic;
+font-weight: bold;
+line-height: normal;
+}
+
+.corDeFundo{
+    background-color: rgb(178, 96, 255);
+    font-size: 25px;
+    font-style: italic;
+    text-align: left;
+}

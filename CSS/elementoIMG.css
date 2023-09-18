@@ -1,0 +1,22 @@
+body {
+    background-image: url(../IMG/jordan_getty.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+figure{
+    text-align: center;
+    border-radius: 1% ;
+    border: solid 2px blue;
+    width: 700px;
+}
+figcaption{
+    font-size: 30px;
+    color: rgb(248, 0, 0);
+}
+img{
+    width: 700px;
+}
+h1{
+    background-color: rgba(24, 27, 196, 0.719);
+    text-align: center;
+}

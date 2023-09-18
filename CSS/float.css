@@ -1,0 +1,28 @@
+.dv1{
+   box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    float: left;
+}
+.dv2{
+   
+    width: 250px;
+    height: 250px;
+    background-color: rgb(24, 224, 238);
+    float: right;
+    clear: right;
+}
+.dv3{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(255, 0, 0);
+    float: right;
+    clear: left;
+    
+}
+img{
+    float: left;
+    border: solid 1px black;
+    
+}
